@@ -1,0 +1,356 @@
+language_name,num
+Batchfile,98841
+CSS,827355
+HTML,788428
+Java,372734
+JavaScript,1113318
+Shell,643712
+C,297324
+PowerShell,32595
+Python,553089
+Makefile,251972
+PostScript,4200
+Clojure,26111
+ApacheConf,72600
+Nginx,9261
+PHP,345055
+Haskell,31215
+Nix,2225
+Awk,21359
+CoffeeScript,70348
+C++,282429
+Perl,104139
+Ruby,379799
+Smarty,17331
+AppleScript,4141
+ASP,34307
+C#,134455
+Objective-C,171895
+Scala,34855
+XSLT,33076
+VimL,20673
+Go,90932
+GLSL,13885
+CMake,55827
+Racket,3835
+Erlang,15324
+Groff,27276
+Lex,12958
+Tcl,8249
+Yacc,14251
+Haxe,3391
+Groovy,27643
+DIGITAL Command Language,3967
+Lua,34159
+Pure Data,997
+Assembly,48834
+Objective-C++,18227
+Scilab,13596
+TeX,31797
+UnrealScript,9995
+GAP,4222
+TypeScript,43014
+R,29643
+Swift,42309
+Forth,1938
+SystemVerilog,1032
+Verilog,2949
+Vim script,10162
+D,7301
+OpenEdge ABL,2659
+Elixir,6850
+QMake,17860
+Bison,3785
+Rust,15674
+Emacs Lisp,16983
+Logos,4841
+SuperCollider,3843
+Cuda,4318
+FLUX,905
+M,5029
+Matlab,20595
+QML,5331
+Common Lisp,5827
+Vue,8030
+Jupyter Notebook,15949
+Arduino,22071
+ANTLR,2789
+Jasmin,203
+Smali,208
+Ada,2217
+M4,15890
+Prolog,11817
+Roff,10751
+SourcePawn,9693
+DOT,3056
+Eagle,2272
+Protocol Buffer,12638
+Io,651
+OCaml,5828
+GCC Machine Description,987
+SaltStack,1775
+Handlebars,6729
+Gherkin,4235
+F#,5936
+PLSQL,7195
+SQL,656
+Scheme,7303
+Apex,770
+PLpgSQL,9243
+SQLPL,5835
+NSIS,8334
+Glyph,11
+FreeMarker,3497
+Mako,4296
+SAS,1409
+Fortran,2635
+PAWN,665
+Pascal,10368
+Inno Setup,3700
+Module Management System,1411
+Julia,6287
+Dylan,117
+Perl6,5943
+Thrift,3515
+eC,949
+Stata,1023
+IDL,5468
+Kotlin,6165
+Smalltalk,5627
+Bro,165
+Web Ontology Language,719
+Dart,5462
+Coq,1037
+FORTRAN,4069
+Puppet,15242
+Cucumber,8019
+Liquid,972
+ActionScript,8958
+Visual Basic,11589
+ColdFusion,2125
+VHDL,2099
+GDB,2695
+Csound Score,57
+XS,2027
+Ragel in Ruby Host,956
+Perl 6,2753
+Modelica,554
+XML,2787
+Crystal,1205
+Gosu,549
+RAML,474
+xBase,347
+OpenSCAD,1770
+AMPL,814
+AspectJ,815
+J,167
+GDScript,674
+Rebol,1708
+Mathematica,2753
+Processing,6885
+MoonScript,369
+CLIPS,1045
+Clarion,277
+Slash,447
+HCL,2285
+Standard ML,2481
+DTrace,2116
+Gnuplot,3225
+Augeas,297
+PureBasic,637
+HLSL,1619
+ShaderLab,1093
+VCL,402
+1C Enterprise,276
+BitBake,1042
+Elm,2867
+RobotFramework,448
+AGS Script,680
+Vala,2037
+Ceylon,170
+Redcode,120
+Brainfuck,860
+JSONiq,412
+KiCad,1222
+PureScript,827
+LSL,403
+SQF,614
+NewLisp,844
+API Blueprint,820
+PigLatin,599
+LLVM,1343
+Gettext Catalog,675
+Boo,244
+Clean,271
+EmberScript,469
+LiveScript,2334
+Limbo,368
+Red,90
+Nu,374
+Meson,654
+Graphviz (DOT),66
+Max,1053
+Eiffel,734
+XQuery,1191
+HyPhy,66
+Click,128
+WebAssembly,124
+Game Maker Language,423
+nesC,473
+Nim,397
+Objective-J,348
+JFlex,40
+Nimrod,678
+sed,237
+Monkey,117
+BlitzMax,53
+AutoIt,658
+Xtend,852
+AngelScript,258
+BlitzBasic,493
+NetLogo,151
+Mercury,664
+Arc,485
+Lasso,465
+XProc,223
+Mask,645
+Isabelle,147
+XC,453
+AutoHotkey,1435
+Diff,590
+Pep8,27
+Brightscript,95
+Frege,167
+CartoCSS,348
+Kit,67
+Volt,363
+ABAP,448
+Agda,203
+Turing,165
+Propeller Spin,133
+LilyPond,297
+DM,415
+Csound Document,79
+Terra,221
+POV-Ray SDL,490
+LabVIEW,360
+SRecode Template,175
+Common Workflow Language,37
+Stan,147
+UrWeb,74
+Cap'n Proto,678
+SMT,139
+Squirrel,441
+Factor,119
+COBOL,662
+Oxygene,36
+MAXScript,345
+ooc,129
+Pony,77
+APL,97
+X10,19
+Rascal,110
+TXL,21
+Xojo,68
+Hack,547
+Pike,106
+mupad,71
+Ren'Py,49
+E,331
+Zephir,141
+Ragel,261
+RPC,113
+Pan,153
+Self,28
+KiCad Layout,60
+PicoLisp,108
+Metal,183
+Nemerle,305
+Harbour,93
+Nextflow,34
+P4,30
+Delphi,254
+Oz,76
+Idris,301
+NCL,62
+RenderScript,400
+WebIDL,114
+Alloy,90
+Csound,67
+Uno,38
+Nearley,19
+ATS,43
+Hy,175
+Lean,264
+LookML,47
+LOLCODE,106
+Cirru,289
+TI Program,7
+Parrot,120
+TLA,64
+Chapel,55
+Nit,26
+Modula-2,115
+XPages,41
+Tea,14
+MQL4,35
+KRL,29
+Component Pascal,131
+REALbasic,17
+NetLinx,26
+NetLinx+ERB,3
+GAMS,52
+IGOR Pro,82
+PowerBuilder,15
+Opa,60
+Fancy,116
+Genshi,118
+Cycript,69
+wisp,23
+Rouge,11
+LoomScript,8
+Golo,30
+ChucK,99
+Mirah,49
+Ecl,27
+Fantom,39
+Inform 7,56
+Ioke,42
+Logtalk,52
+Moocode,21
+ShellSession,17
+DCPU-16 ASM,30
+Papyrus,79
+Bluespec,50
+Myghty,59
+Grammatical Framework,35
+wdl,20
+Dogescript,26
+Cool,52
+Omgrofl,8
+Jolie,13
+Grace,14
+REXX,57
+MQL5,32
+CWeb,37
+ECL,15
+Befunge,7
+MTML,12
+EQ,13
+PogoScript,12
+Genie,13
+Shen,16
+Zimpl,39
+Charity,11
+LFE,5
+DataWeave,5
+Ballerina,17
+Ox,20
+Opal,7
+RUNOFF,5
+Filebench WML,15
+KiCad Schematic,1
+Markdown,1
+Solidity,14
+Ring,1
+,372649
